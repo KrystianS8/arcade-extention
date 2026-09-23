@@ -1,0 +1,11 @@
+{
+  "name": "arcade-extention",
+  "description": "My custom MakeCode Arcade extension",
+  "files": [
+    "main.ts"
+  ],
+  "dependencies": {
+    "device": "*"
+  },
+  "preferredEditor": "tsprj"
+}
