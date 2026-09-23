@@ -1,4 +1,4 @@
-//% color="#0fbc11" weight=100 icon="\uf11b"
+//% color="#8B4513" weight=100 icon="\uf007" block="Game Origins"
 namespace origins {
     let currentStudio = "My Studio";
     let currentGame = "Cool Game";
