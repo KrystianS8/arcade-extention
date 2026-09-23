@@ -1,11 +1,1 @@
-{
-  "name": "arcade-extention",
-  "description": "My custom MakeCode Arcade extension",
-  "files": [
-    "main.ts"
-  ],
-  "dependencies": {
-    "device": "*"
-  },
-  "preferredEditor": "tsprj"
-}
+﻿{"name":"arcade-origins","description":"A custom extension","license":"MIT","dependencies":{"core":"*"},"files":["main.ts","README.md"],"testFiles":[],"public":true}
